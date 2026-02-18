@@ -20,39 +20,26 @@ Focused on strong fundamentals, real-world implementation, and scalable AI syste
 
 | Category | Technologies |
 |-----------|--------------|
-| **AI & Deep Learning** | Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, LangChain, LangGraph, CNN, RNN, LSTM, GRU, GANs, VAEs, Transformers, NLP, OpenCV |
-| **Web Development** | React, Next.js, Node.js, TypeScript, Django, FastAPI |
-| **Data & Cloud** | PostgreSQL, Firebase, REST APIs, GraphQL, Pandas, NumPy |
-| **Big Data** | Hadoop, Hive |
-| **Tools** | Git, Linux, VS Code |
+| **AI & Machine Learning** | Python, Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, LangChain, LangGraph |
+| **Deep Learning & Computer Vision** | CNN, RNN, LSTM, GRU, GANs, VAEs, Transformers, NLP, OpenCV |
+| **Data Engineering & Processing** | Pandas, NumPy, Apache Spark, Hadoop, Hive |
+| **MLOps & Model Lifecycle** | MLflow, MLOps, Docker |
+| **Backend & APIs** | Django, FastAPI, Node.js, REST APIs, GraphQL |
+| **Databases** | PostgreSQL, Firebase |
+| **Cloud Platforms** | AWS, Azure, GCP |
+| **Development Tools** | Git, Linux, VS Code |
 
 
 ---
 
-## 📊 Featured Projects
-
-### Credit Card Customer Segmentation
-- K-Means, Hierarchical Clustering, DBSCAN  
-- PCA, t-SNE, SVD  
-- Complete EDA and feature engineering workflow  
-
-### Network Traffic ML Analysis
-- Data cleaning and preprocessing  
-- Feature engineering  
-- Model building and evaluation  
-
-More projects are continuously being added.
-
----
 
 ## 📌 Current Focus
 
-- Deep Learning architectures  
-- Transformer-based NLP systems  
-- Clustering & Dimensionality Reduction  
-- End-to-end ML system design  
+- Building production-ready ML systems  
+- Strengthening MLOps and model lifecycle management  
+- Scalable data processing with Spark and cloud platforms  
+- Real-world deployment of AI applications  
 
----
 
 ## 🎯 Goal
 
