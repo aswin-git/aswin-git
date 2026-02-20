@@ -7,7 +7,7 @@ Focused on strong fundamentals, real-world implementation, and scalable AI syste
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎯 Focused on Machine Learning, Deep Learning, and NLP  
 - 🧠 Building complete ML pipelines  
@@ -16,7 +16,7 @@ Focused on strong fundamentals, real-world implementation, and scalable AI syste
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -33,7 +33,7 @@ Focused on strong fundamentals, real-world implementation, and scalable AI syste
 ---
 
 
-## 📌 Current Focus
+##  Current Focus
 
 - Building production-ready ML systems  
 - Strengthening MLOps and model lifecycle management  
@@ -41,6 +41,6 @@ Focused on strong fundamentals, real-world implementation, and scalable AI syste
 - Real-world deployment of AI applications  
 
 
-## 🎯 Goal
+##  Goal
 
 To design scalable AI systems and grow into a high-impact Machine Learning Engineer working on real-world intelligent applications.
